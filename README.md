@@ -1,4 +1,4 @@
-# 📊 Probability and Statistical Data Analysis Course Portfolio (SECI1143)
+# 📊 Probability and Statistical Data Analysis 
 
 Welcome to my repository for the **Probability and Statistical Data Analysis** course at Universiti Teknologi Malaysia (UTM)! This space serves as a portfolio documenting our team-based statistical research projects alongside our practical data analysis assignments using R Studio.
 
