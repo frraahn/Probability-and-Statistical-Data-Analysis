@@ -6,14 +6,14 @@ Welcome to my repository for the **Probability and Statistical Data Analysis** c
 
 ## 📂 Project & Assignment Breakdown
 
-### 🔹 Projects: Empirical Data Collection & Regional Economic Analysis
+### 🔹 Projects
 * **Summary:** Our team executed two major statistical research projects. Project 1 focused on collecting and analyzing survey data regarding student budgeting and meal choices. Project 2 advanced into regional economic analysis, where we used R Studio to run hypothesis testing, correlation assessments, and ANOVA testing to examine income and spending variations across Malaysian states.
 * **Files:**
   * Student Meal Budgeting Research Report 
   * Malaysian Economic Analytics Report
   * R Studio Production Script
 
-### 🔹 Assignments: Foundational Statistics & Linear Regression Modeling
+### 🔹 Assignments
 * **Summary:** This is a collection of coursework assignments focused on applying core probability and statistical theories. The work includes calculating descriptive statistics (mean, median, variance, and standard deviation), constructing visual data distributions (histograms and frequency polygons), modeling probability equations, and calculating Pearson’s correlation coefficients alongside linear regression lines.
 * **Files:**
   * Basic Descriptive Statistics & Data Plots 
